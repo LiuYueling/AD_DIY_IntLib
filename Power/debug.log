@@ -13,3 +13,5 @@
 [1220/161742:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
 [1221/091029:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
 [1221/091029:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[1221/131139:ERROR:angle_platform_impl.cc(33)] ANGLE Display::initialize error 5: DXGI 1.2 required to present to HWNDs owned by another process.
+[1221/131139:ERROR:gl_surface_egl.cc(594)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
